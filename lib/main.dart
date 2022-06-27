@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'pages/Home.dart';
 import 'pages/List.dart';
 import 'pages/Detail.dart';
-import 'router.dart';
 import 'package:go_router/go_router.dart';
 
 void main() {
